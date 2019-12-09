@@ -1,4 +1,4 @@
-Term Project Yue
+Term Project: Snorkel Yue
 ===
 
 Steel Defect Detection
