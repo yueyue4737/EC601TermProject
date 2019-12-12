@@ -4,7 +4,8 @@ Snorkel Yue Liu
 1 What is Snorkel?
 ---
 ### 1.1 Related Concepts
-
+#### 1.1.1 Unsupervised Learning
+#### 1.1.2 Weak Supervision
 ### 1.2 Development History
 
 ### 1.3 Key Functions
