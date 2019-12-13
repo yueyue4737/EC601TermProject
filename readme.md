@@ -26,3 +26,4 @@ Snorkel Yue Liu
 
 Links
 ---
+https://docs.google.com/document/d/1NQ5KVkwA4HGYc2uA3ZCObSxEm41MBnrPcR6zUJAyFsE/edit?usp=sharing
