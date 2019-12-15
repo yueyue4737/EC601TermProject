@@ -24,6 +24,11 @@ Snorkel Yue Liu
 
 ### 3.2 Comparison
 
+4 What's next?
+---
+
+<p> for more, see the notes.md in the presentation folder <p>
+
 Links
 ---
 1. Report https://docs.google.com/document/d/1NQ5KVkwA4HGYc2uA3ZCObSxEm41MBnrPcR6zUJAyFsE/edit?usp=sharing
