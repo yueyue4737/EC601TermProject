@@ -1,6 +1,8 @@
 Snorkel Yue Liu
 ===
 
+![Alt Text](https://github.com/yueyue4737/EC601TermProject/blob/master/Poster/A2_LiuYue_7_individual.jpg)
+
 1 What is Snorkel?
 ---
 ### 1.1 Related Concepts
