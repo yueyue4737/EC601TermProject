@@ -14,7 +14,7 @@ Other group's project
 ===
 
 <p>1. I found the project about tulong in the quiz, at first I didn't get the meaning in Chinese.
-   2. A network analysis in cyber security is made by student in another coruse.
+   2. A network analysis, using maltego in cyber security is made by student in another coruse.
    3. My teamates in another group made a very interesting project about audio analysis.
    4. It is important not to confuse the concept of machine learning, i.e, supervised vs unsupervised.<p>
    
