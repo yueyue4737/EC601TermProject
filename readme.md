@@ -16,9 +16,9 @@ Snorkel Yue Liu
 ---
 ### 2.1 Getting Start (Applying Basic Functions)
 
-### 2.2 Natural Language Processing: Spam Detection (Naive Bayes vs Snorkel)
+### 2.2 Texts: Spam Detection (Naive Bayes vs Snorkel)
 
-### 2.3 Computer Vision: Image Relation (Unet vs Snorkel)
+### 2.3 Images: Image Relation (Unet vs Snorkel)
 
 3 Conclusions
 ---
@@ -28,7 +28,10 @@ Snorkel Yue Liu
 
 4 What's next?
 ---
-
+### 4.1 Feedback 
+<p> Combing the time series analysis in mini3, and the group work for NN in sprint1 <p>
+  
+### 4.2 Learning from other groups
 <p> for more, see the notes.md in the presentation folder <p>
 
 Links
