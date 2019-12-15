@@ -26,5 +26,5 @@ Snorkel Yue Liu
 
 Links
 ---
-1. Reporthttps://docs.google.com/document/d/1NQ5KVkwA4HGYc2uA3ZCObSxEm41MBnrPcR6zUJAyFsE/edit?usp=sharing
+1. Report https://docs.google.com/document/d/1NQ5KVkwA4HGYc2uA3ZCObSxEm41MBnrPcR6zUJAyFsE/edit?usp=sharing
 2. Webpage:https://yueyue4737.github.io/EC601A2MiniProject2/
