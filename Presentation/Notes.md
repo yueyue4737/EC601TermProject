@@ -18,7 +18,6 @@ Other group's project
    3. My teamates in another group made a very interesting project about audio analysis.
    4. It is important not to confuse the concept of machine learning, i.e, supervised vs unsupervised.<p>
    
-![Alt Text]()
-![Alt Text]()
-![Alt Text]()
-![Alt Text]()
+![Alt Text](https://github.com/yueyue4737/EC601TermProject/blob/master/Presentation/1.png)
+![Alt Text](https://github.com/yueyue4737/EC601TermProject/blob/master/Presentation/2.png)
+![Alt Text](https://github.com/yueyue4737/EC601TermProject/blob/master/Presentation/3.png)
