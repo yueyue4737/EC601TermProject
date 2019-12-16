@@ -17,8 +17,12 @@ Snorkel Yue Liu
 
 ### 1.3 Key Functions
 
+![Alt Text]()
+
 2 When to use Snorkel?
 ---
+<p> For more details, see the folders and webpages in the term project and miniproject2.<p>
+
 ### 2.1 Getting Start (Applying Basic Functions)
 
 ### 2.2 Texts: Spam Detection (Naive Bayes vs Snorkel)
