@@ -44,7 +44,7 @@ Snorkel Yue Liu
 <p> Combing the time series analysis in mini3, and the group work for NN in sprint1 <p>
   
 ### 4.2 Learning from other groups
-<p> for more, see the notes.md in the presentation folder <p>
+<p> for more, see the notes.md in the `presentation` folder <p>
 
 Links
 ---
