@@ -17,7 +17,7 @@ Snorkel Yue Liu
 
 ### 1.3 Key Functions
 
-![Alt Text]()
+![Alt Text](https://github.com/yueyue4737/EC601TermProject/blob/master/img/Operators.png)
 
 2 When to use Snorkel?
 ---
@@ -34,6 +34,8 @@ Snorkel Yue Liu
 
 3 Conclusions
 ---
+<p> see the poster <p>
+  
 ### 3.1 The Pros and Cons
 
 ### 3.2 Comparison
