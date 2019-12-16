@@ -8,7 +8,12 @@ Snorkel Yue Liu
 ### 1.1 Related Concepts
 #### 1.1.1 Unsupervised Learning
 #### 1.1.2 Weak Supervision
+
+<p>Weak Supervision uses noisy, limited or imprecise sources but it can avoid structural assumptions by using subject matter experts (SMEs).<p>
+
 ### 1.2 Development History
+
+<p> Snorkel v0.9 Teaser is developed by the Hazy Research Team from Stanford University in 2016. <p>
 
 ### 1.3 Key Functions
 
@@ -17,8 +22,11 @@ Snorkel Yue Liu
 ### 2.1 Getting Start (Applying Basic Functions)
 
 ### 2.2 Texts: Spam Detection (Naive Bayes vs Snorkel)
+<p> The team introduces a babble labble option with explanations. <p>
 
 ### 2.3 Images: Image Relation (Unet vs Snorkel)
+
+<p> The result in identifying and modeling correlations among heuristics  is more accomplished than the fully supervised learning. <p>
 
 3 Conclusions
 ---
